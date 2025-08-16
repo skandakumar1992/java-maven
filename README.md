@@ -46,3 +46,5 @@ mvn -v
 3.	In Build → Add build step → choose Invoke top-level Maven targets.
 4.	Goals: clean install
 5.	Save job.ns Job
+   <img width="1900" height="905" alt="image" src="https://github.com/user-attachments/assets/a28f43f2-0996-4bef-8ddc-6039e718d50c" />
+
